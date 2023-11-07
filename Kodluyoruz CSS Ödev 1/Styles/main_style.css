@@ -1,0 +1,23 @@
+body {
+    background-image: url(../Images/background.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+p {
+    margin-left: 5%;
+    width: 90%;
+    height: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+    color: yellow ;
+    background-color: blue;
+}
+a {
+    font-size: 25px;
+    color: yellow;
+    position: absolute;
+    top: 90%;
+    left: 44%;
+}
